@@ -9,11 +9,6 @@ const express = require('express') //express framework
 const http = require('http')
 const PORT = process.env.PORT || 3000 //allow environment variable to possible set PORT
 
-/*YOU NEED AN APP ID KEY TO RUN THIS CODE
-  GET ONE BY SIGNING UP AT openweathermap.org
-*/
-// let API_KEY = '029de0f24e1e1f17aea46cabaef22308' //<== YOUR API KEY HERE
-
 const app = express()
 
 //Middleware

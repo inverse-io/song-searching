@@ -1,10 +1,4 @@
-/*
 
-Copy of the inlcuded server.js file but instead utilises the iTunes API
-Instructions say that I should have created a copy of this
-So I just made another server
-
-*/
 const express = require('express') //express framework
 const http = require('http')
 const PORT = process.env.PORT || 3000 //allow environment variable to possible set PORT

@@ -14,7 +14,7 @@ After ensuring that Nodejs and the packages are installed properly, run the serv
 ```
 node server.js
 ```
-To run the client side to test, using a chrome based web browser use either of the links below:
+To run the client side to test, using a chrome based web browser use any of the links below:
 ```
 http://localhost:3000/mytunes.html
 http://localhost:3000/mytunes

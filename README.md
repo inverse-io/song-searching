@@ -11,6 +11,7 @@ Using the iTunes API, this project allows the user to search a song, save and ad
 - `keyHandlers`: Handles the event that the 'ENTER' button is pressed.
 - `loadPage`: Used to save page data to be loaded back in when returning to the page.
 - `script`: Contains functions that handle data being passed from the client side to server side.
+- `styles`: A style sheet that determines the style of the web document.
 
 ## Prerequisites
 Install the required packages and dependents listed in the .json files. To do so execute this command in terminal:
